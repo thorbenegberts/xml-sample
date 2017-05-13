@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buecher>
+  <buch>
+    <titel>The Great Gatsby<titel/>
+    <autor>F. Scott Fitzgerald<autor/>
+  <buch/>
+  <buch>
+    <titel>The Grapes of Wrath<titel/>
+    <autor>John Steinbeck<autor/>
+  <buch/>
+  <buch>
+    <titel>Nineteen Eighty-Four<titel/>
+    <autor>George Orwell<autor/>
+  <buch/>
+<buecher/>
