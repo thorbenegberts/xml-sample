@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beispiel>
+  <![CDATA[
+    <element>Dieses Element wird nicht interpretiert. Es kann reservierte Zeichen wie „<”, „&” oder „<” enthalten.</element>
+  ]]>
+</beispiel>
