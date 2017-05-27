@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!DOCTYPE buecher [
+<!ELEMENT buch (autor,erscheinungsjahr,isbn,seitenzahl)>
+<!ELEMENT autor (#PCDATA)>
+<!ELEMENT erscheinungsjahr (#PCDATA)>
+<!ELEMENT isbn (#PCDATA)>
+<!ELEMENT seitenzahl (#PCDATA)>
+]>
