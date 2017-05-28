@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE buecher [
+  <!ELEMENT buecher (buch*)>
+  <!ELEMENT buch (titel,autor)>
+  <!ELEMENT titel (#PCDATA)>
+  <!ELEMENT autor (#PCDATA)>
+]>
+<buecher>
+  <buch>
+    <titel>The Great Gatsby</titel>
+    <autor>F. Scott Fitzgerald</autor>
+  </buch>
+  <buch>
+    <titel>The Grapes of Wrath</titel>
+    <autor>John Steinbeck</autor>
+  </buch>
+  <buch>
+    <titel>Nineteen Eighty-Four</titel>
+    <autor>George Orwell</autor>
+  </buch>
+</buecher>
