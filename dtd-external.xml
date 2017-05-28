@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hello SYSTEM "buch.dtd">
+<buch>
+  <titel>The Great Gatsby</titel>
+  <autor>F. Scott Fitzgerald</autor>
+</buch>
