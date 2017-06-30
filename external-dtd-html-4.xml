@@ -1,10 +1,27 @@
+
+
+
+
+
+
+
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"
   "http://www.w3.org/TR/REC-html40/loose.dtd">
-<HTML>
-  <HEAD>
-  <TITLE>Eine HTML-Datei</TITLE>
-  </HEAD>
-  <BODY>
+<html>
+  <head>
+  <title>Eine HTML-Datei</title>
+  </head>
+  <body>
     Dies ist eine HTML-Struktur nach der Spezifikation von HTML 4.0.
-  </BODY>
-</HTML>
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
