@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
+
 <beispiel attribut1="Ein ' ist hier erlaubt, aber kein &apos;" attribut2='Ein " ist hier erlaubt, aber kein &quot;'>
   Das Dokument hat den Zeichensatz "UTF-8". Umlaute wie ä, ö, ü können hier direkt verwendet werden. Die Zeichen &lt;, &gt; und &amp; müssen wir anders angeben.
 </beispiel>
