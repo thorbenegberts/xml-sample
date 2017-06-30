@@ -8,8 +8,8 @@
 <?xml version='1.0'?>
 
 <book xmlns="http://docbook.org/ns/docbook"
-	 xmlns:xl="http://www.w3.org/1999/xlink"
-	 version="5.0" xml:lang="en">
+ xmlns:xl="http://www.w3.org/1999/xlink"
+ version="5.0" xml:lang="en">
   <info>
     <title>My First Book</title>
     <author>
@@ -17,11 +17,13 @@
     </author>
     <copyright><year>2017</year><holder>Max Mustermann</holder></copyright>
   </info>
-  <preface><title>Foreword</title></preface>
+  <preface>
+    <title>Foreword</title>
+    ...
+  </preface>
   <chapter> ... </chapter>
   <chapter> ... </chapter>
   <chapter> ... </chapter>
-  <appendix> ... </appendix>
   <appendix> ... </appendix>
   <index> ... </index>
 </book>
@@ -31,3 +33,5 @@
 
 
 
+
+  
