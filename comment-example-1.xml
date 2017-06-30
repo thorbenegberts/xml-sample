@@ -1,10 +1,21 @@
+
+
+
+
+
+
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!-- Bitte ISBN als Attribut erfassen -->
 
 <buecher>
   <buch isbn="978-0743273565">
-    <titel>The Great Gatsby<titel/>
-    <autor>F. Scott Fitzgerald<autor/>
-  <buch/>
-<buecher/>
+    <titel>The Great Gatsby</titel>
+    <autor>F. Scott Fitzgerald</autor>
+  </buch>
+</buecher>
+
+
+      
+      
+      
