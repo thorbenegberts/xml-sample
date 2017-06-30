@@ -1,10 +1,30 @@
+
+
+
+
+
+
+
+
+
 <?xml version="1.0" encoding="UTF-8"?>
+
 <!DOCTYPE buecher [
   <!ELEMENT text (#PCDATA | kursiv | fett | unterstrichen)*>
   <!ELEMENT kursiv (#PCDATA)>
-  <!ELEMENT fett (#PCDATA | augenzwinkernd)*>
+  <!ELEMENT fett (#PCDATA)>
   <!ELEMENT unterstrichen (#PCDATA)>
 ]>
+
 <text>
   Dieser Text enthält Wörter, die <fett>fett</fett>, <kursiv>kursiv</kursiv> oder <unterstrichen>unterstrichen</unterstrichen> dargestellt werden sollen.
 </text>
+
+
+
+
+
+
+
+
+
