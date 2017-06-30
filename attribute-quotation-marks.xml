@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+
+
+
+
+
+<beispiele>
+  <beispiel attribut="Ein ' ist hier erlaubt, aber kein &apos;"></beispiel>
+  <beispiel attribut='Ein " ist hier erlaubt, aber kein &quot;'></beispiel>
+</beispiele>
+
+
+
+
+
+
+
+
