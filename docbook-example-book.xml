@@ -8,24 +8,30 @@
 <?xml version='1.0'?>
 
 <book xmlns="http://docbook.org/ns/docbook"
- xmlns:xl="http://www.w3.org/1999/xlink"
- version="5.0" xml:lang="en">
+      xmlns:xl="http://www.w3.org/1999/xlink"
+      version="5.0" xml:lang="en">
   <info>
-    <title>My First Book</title>
-    <author>
-      <personname><firstname>Max</firstname><surname>Mustermann</surname></personname>
-    </author>
-    <copyright><year>2017</year><holder>Max Mustermann</holder></copyright>
+    <title>Ein Beispiel-Buch</title>
+      <author>
+        <personname><firstname>Max</firstname><surname>Mustermann</surname></personname>
+      </author>
+      <copyright><year>2017</year><holder>Max Mustermann</holder></copyright>
   </info>
   <preface>
-    <title>Foreword</title>
-    ...
+  <title>Vorwort</title>
+  ...
   </preface>
   <chapter> ... </chapter>
   <chapter> ... </chapter>
   <chapter> ... </chapter>
-  <appendix> ... </appendix>
-  <index> ... </index>
+  <appendix>
+    <title>Anhang</title>
+    ... 
+  </appendix>
+  <index>
+    <title>Inhaltsverzeichnis</title>
+    ...
+  </index>
 </book>
 
 
