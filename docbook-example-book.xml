@@ -12,14 +12,14 @@
       version="5.0" xml:lang="en">
   <info>
     <title>Ein Beispiel-Buch</title>
-      <author>
-        <personname><firstname>Max</firstname><surname>Mustermann</surname></personname>
-      </author>
-      <copyright><year>2017</year><holder>Max Mustermann</holder></copyright>
+    <author>
+      <personname><firstname>Max</firstname><surname>Mustermann</surname></personname>
+    </author>
+    <copyright><year>2017</year><holder>Max Mustermann</holder></copyright>
   </info>
   <preface>
-  <title>Vorwort</title>
-  ...
+    <title>Vorwort</title>
+    ...
   </preface>
   <chapter> ... </chapter>
   <chapter> ... </chapter>
