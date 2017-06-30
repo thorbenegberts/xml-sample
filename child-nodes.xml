@@ -1,8 +1,22 @@
+
+
+
+
+
+
+
 <?xml version="1.0" encoding="UTF-8"?>
+
 <buecher>
   <buch>
-    <titel>The Great Gatsby<titel/>
+    <titel>The Great Gatsby</titel>
     <isbn>978-0743273565</isbn>
-    <autor>F. Scott Fitzgerald<autor/>
-  <buch/>
-<buecher/>
+    <autor>F. Scott Fitzgerald</autor>
+  </buch>
+</buecher>
+
+      
+      
+      
+      
+      
