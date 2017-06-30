@@ -1,0 +1,23 @@
+
+
+
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE buch [
+  <!ELEMENT buch (titel,autor)>
+  <!ELEMENT titel (#PCDATA)>
+  <!ELEMENT autor (#PCDATA)>
+]>
+
+<buch>
+  <titel>The Great Gatsby</titel>
+  <autor>F. Scott Fitzgerald</autor>
+</buch>
+
+
+
+
+
+
