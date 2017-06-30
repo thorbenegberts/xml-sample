@@ -17,7 +17,9 @@
 ]>
 
 <text>
-  Dieser Text enthält Wörter, die <fett>fett</fett>, <kursiv>kursiv</kursiv> oder <unterstrichen>unterstrichen</unterstrichen> dargestellt werden sollen.
+  Dieser Text enthält Wörter, die <fett>fett</fett>, 
+  <kursiv>kursiv</kursiv> oder <unterstrichen>unterstrichen</unterstrichen>
+  dargestellt werden sollen.
 </text>
 
 
